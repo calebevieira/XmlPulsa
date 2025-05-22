@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-darkBg text-neonCyan font-digital;
+}
+
+.neon-box {
+  @apply shadow-neon border border-neonCyan;
+}
