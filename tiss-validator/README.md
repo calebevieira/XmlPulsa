@@ -6,7 +6,7 @@ Projeto para validar arquivos XML de guias TISS conforme os padrões da ANS.
 
 ```bash
 cd backend
-npm install
+
 node src/server.js
 ```
 
@@ -14,7 +14,7 @@ node src/server.js
 
 ```bash
 cd frontend/nextjs-app
-npm install
+
 npm run dev
 ```
 
